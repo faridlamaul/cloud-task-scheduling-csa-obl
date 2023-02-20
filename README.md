@@ -2,6 +2,7 @@
 
 1. Clone the project
 2. Open the project in IntelliJ IDEA
+3. Select the JDK version 1.8
 3. Add the following libraries to the project
     ```agsl
    1. cloudsim-3.0.3-sources
